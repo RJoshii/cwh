@@ -1,7 +1,7 @@
 <html>
 <head>
-<title>main branched file</title>
+<title>main branched 3-6 file</title>
 </head>
 <body>
-hi this is developer three </body>
+hi this is developer three: 6 </body>
 </html>
